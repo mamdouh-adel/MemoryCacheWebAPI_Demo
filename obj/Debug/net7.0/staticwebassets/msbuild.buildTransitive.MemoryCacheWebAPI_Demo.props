@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MemoryCacheWebAPI_Demo.props" />
+</Project>
